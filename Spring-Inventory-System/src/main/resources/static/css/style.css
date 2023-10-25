@@ -1,0 +1,85 @@
+h1 {
+    font-family: "Segoe UI", Tahoma, sans-serif;
+    text-align: center;
+    color: #bfff00;
+    background-image: url(https://media.istockphoto.com/id/178149253/photo/deep-space-background.jpg?s=612x612&w=0&k=20&c=w1hb2H1C-blV918LoG9mGB02nJY6cLJpR5Szfg7sLqE=);
+    /* text-decoration-line: underline; */
+    background-size: auto;
+    border: 5px #000000;
+    padding: 20px;
+
+}
+
+h1 span {
+    background-color: rgba(96, 38, 138, 0.56);
+    border-radius: 10px;
+
+}
+
+h2 {
+
+    font-family: "Segoe UI", Tahoma, sans-serif;
+    background-color: #022649;
+    color: #bfff00;
+    padding-left: 5px;
+    padding-bottom: 4px;
+
+}
+
+
+footer {
+    transition-duration: 0.5s;
+    background-color: #022649;
+    border-radius: 8px;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    padding: 4px 4px 4px 5px;
+    margin-left: 10px;
+}
+
+a:link {
+    color: #bfff00;
+}
+
+a:visited {
+    color: #bfff00;
+}
+
+a:hover{
+    color: aquamarine;
+}
+
+.about {
+    position: absolute;
+    top: 10px;
+    right: 180px;
+    background-color: rgba(96, 38, 138, 0.56);
+    border-radius: 4px;
+}
+
+.text-field {
+    padding-left: 10px;
+    margin-left: 10px;
+}
+
+.submit {
+    transition-duration: 0.5s;
+    background-color: #022649;
+    border-radius: 8px;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    padding: 4px 4px 4px 5px;
+    margin-left: 10px;
+}
+
+.red-text {
+    color: firebrick;
+    background-color: rgba(124, 32, 32, 0.22);
+    padding-left: 20px;
+}
